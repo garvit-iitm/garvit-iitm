@@ -17,20 +17,23 @@
 
 ### 💡 About Me
 
-🎓 I’m currently pursuing a **dual degree**:  
-- **BTech in Computer Science and Engineering** from Galgotias College of Engineering & Technology  
-- **BS in Data Science and Applications** from **IIT Madras**
+🎓 Dual degree student:  
+- **BTech in CSE (AI)** from Galgotias College  
+- **BS in Data Science** from **IIT Madras**
 
-💻 Passionate about solving real-world problems through technology. Recently built a **Flask-based Vehicle Parking App** as part of my full-stack development journey.
+💻 Passionate about solving real-world problems with tech. Recently built a **Flask-based Vehicle Parking App** as part of my full-stack journey.
 
-🚀 Currently on a **30-Day Coding Challenge** to sharpen my DSA and development skills. I’m solving:
-- Problems from **Striver's SDE Sheet** on LeetCode  
-- Competing in **CodeChef contests**  
-- Learning **JavaScript** from *Chai aur Code*  
-- Planning to dive deep into **React** next!
+🚀 Currently on a **30-Day Coding Challenge**:
+- Solving DSA via **Striver’s SDE Sheet** on LeetCode  
+- Competing on **CodeChef**  
+- Learning **JavaScript** via *Chai aur Code*  
+- Targeting **React.js** soon!  
 
-📘 **Track my daily progress here →**  
-🔗 [Notion Log – 30-Day Coding Challenge](https://www.notion.so/2206eb550ef08034b3b0df4130a86435?v=2206eb550ef08117abe8000cb2dbd92f&source=copy_link)
+📘 **Daily Logs on Notion** →  
+🔗 [Track my journey](https://www.notion.so/2206eb550ef08034b3b0df4130a86435?v=2206eb550ef08117abe8000cb2dbd92f&source=copy_link)
+
+📂 **JavaScript Learning GitHub Repo** →  
+🔗 [JS Practice – Chai aur Code](https://github.com/garvit-iitm/js-learning) *(Replace with your repo if different)*
 
 ---
 
@@ -44,33 +47,25 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=garvit-iitm&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=garvit-iitm&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garvit-iitm&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-
-> ✨ Replace `garvit-iitm` with your actual GitHub username in the above image URLs for stats to work!
 
 ---
 
-### 📌 Pinned Projects
+### 📌 Featured Projects
 
-Here are a few things I’m proud of:
-
-- 🔧 [Vehicle Parking System – Flask](https://github.com/your-github-username/vehicle-parking-app)
-- 💡 [JavaScript Learning – Chai aur Code](https://github.com/your-github-username/js-learning)
-
-> Replace with actual project URLs when ready.
+- 🔧 [Vehicle Parking System – Flask](https://github.com/garvit-iitm/vehicle-parking-app) *(Add when ready)*
+- 💡 [JavaScript Practice – Chai aur Code](https://github.com/garvit-iitm/js-learning)
 
 ---
 
@@ -80,12 +75,5 @@ Here are a few things I’m proud of:
 
 ---
 
-### 👀 Fun Fact
-
-When I’m not coding, I’m either exploring new tech, helping friends debug, or planning my next big idea 💡.
-
----
-
-Thanks for stopping by! Let’s connect and grow together 🚀  
+Thanks for visiting! Let's connect 🚀  
 _Keep Building. Keep Learning._
-
