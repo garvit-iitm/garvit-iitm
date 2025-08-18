@@ -33,23 +33,6 @@
 
 ---
 
-### <h2 align="center">📅 My 30-Day Challenge</h2>
-
-<p align="center">
-🟢 Solving DSA via <strong>Striver’s SDE Sheet</strong> on LeetCode<br>
-🟣 Competing in <strong>CodeChef contests</strong><br>
-🟡 Learning <strong>JavaScript</strong> via <em>Chai aur Code</em><br>
-🔵 Will move to <strong>React.js</strong> after that!<br><br>
-
-📘 <strong>Notion Log:</strong>  
-<a href="https://www.notion.so/2206eb550ef08034b3b0df4130a86435?v=2206eb550ef08117abe8000cb2dbd92f&source=copy_link">🔗 Track My Daily Progress</a>
-
-📂 <strong>JavaScript Practice:</strong>  
-<a href="https://github.com/garvit-iitm/js-learning">📦 JS Learning – Chai aur Code</a>
-</p>
-
----
-
 ### <h2 align="center">⚙️ Tech Stack</h2>
 
 <p align="center">
