@@ -135,7 +135,7 @@
 <div align="center">
 
 ### 🚗 Vehicle Parking App
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=garvit-iitm&repo=vehicle-parking-app&theme=dark&bg_color=0d1117&hide_border=true)](https://github.com/garvit-iitm/vehicle-parking-app)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=garvit-iitm&repo=MAD1_PROJECT&theme=dark&bg_color=0d1117&hide_border=true)](https://github.com/garvit-iitm/MAD1_PROJECT)
 
 **Tech Stack:** `Python` `Flask` `HTML/CSS` `SQLAlchemy` `MySQL`
 
@@ -145,7 +145,7 @@
 🔹 Dashboard analytics for parking utilization  
 
 ### 📊 Business Development Project  
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=garvit-iitm&repo=business-development&theme=dark&bg_color=0d1117&hide_border=true)](https://github.com/garvit-iitm/business-development)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=garvit-iitm&repo=BDM_project&theme=dark&bg_color=0d1117&hide_border=true)](https://github.com/garvit-iitm/BDM_project)
 
 **Tech Stack:** `Excel` `Google Sheets` `Data Analysis` `Visualization`
 
